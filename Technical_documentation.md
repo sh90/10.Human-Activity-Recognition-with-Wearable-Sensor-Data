@@ -7,6 +7,8 @@
 ## Why it’s special: 
 Order matters. We care about patterns across time—rhythm, trends, repetitions—not just individual numbers.
 
+https://www.influxdata.com/what-is-time-series-data/ 
+
 ## Key terms 
 
 Sampling rate (Hz): How many measurements per second (e.g., 50 Hz = 50 samples/sec).
