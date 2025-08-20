@@ -49,11 +49,11 @@ def train(args):
 
 if __name__=='__main__':
     p=argparse.ArgumentParser()
-    p.add_argument('--epochs', type=int, default=10)
+    p.add_argument('--epochs', type=int, default=20)
     p.add_argument('--batch', type=int, default=64)
     p.add_argument('--lr', type=float, default=1e-3)
-    p.add_argument('--window', type=int, default=100)
-    p.add_argument('--step', type=int, default=50)
+    p.add_argument('--window', type=int, default=50)
+    p.add_argument('--step', type=int, default=5)
     p.add_argument('--hidden', type=int, default=64)
     p.add_argument('--layers', type=int, default=1)
     p.add_argument('--dropout', type=float, default=0.0)
