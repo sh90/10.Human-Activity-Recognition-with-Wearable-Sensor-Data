@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+plotly
+matplotlib
+streamlit
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+joblib
+tqdm
